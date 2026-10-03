@@ -1,4 +1,5 @@
 Day 11: Simple Temperature Classifier
+
 This project uses an ESP32 to classify temperature readings as Low, Medium, or High with a small dense neural network. The ESP32 prints each test reading, its predicted class, and the model’s confidence scores to the Serial Monitor.
 
 Components
