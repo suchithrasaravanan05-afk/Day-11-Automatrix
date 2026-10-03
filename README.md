@@ -19,7 +19,7 @@ How to use
 3. View the sample temperature readings, predicted classes, and confidence scores.
 4. Edit the testTemps array in sketch.ino to try different readings.
 
-Run the simulation(https://wokwi.com/projects/476865789498987521).
+[Run the simulation](https://wokwi.com/projects/476865789498987521)
 
 How it works
 The sketch normalizes each temperature using:
